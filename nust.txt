@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+		<title> NUST </title>
+		<link rel="stylesheet" type="text/css" href="css/nu.css">
+</head>
+<body>
+		<header>
+		<div class="logo">
+			 <h1>ZBHG 
+			  <br/>&nbsp &nbsp &nbsp &nbsp &nbsp Technologies Limited</h1>
+			 </div>
+		
+			<div class="button">
+				<a href="Project 1.html" class="btn">HOME</a>
+				<a href="pucit.html" class="btn">PUCIT</a>
+				<a href="fast.html" class="btn">FAST</a>
+				<a href="itu.html" class="btn">ITU</a>
+				<a href="nust.html" class="btn">NUST</a>
+				<a href="comsats.html" class="btn">COMSATS</a>
+			</div>
+			
+			
+			<div class="main">
+			
+			<br/>
+			<h5> National University of Sciences and Technology </h5>
+			<br/>
+			<br/>
+			
+			<p1> To evolve NUST into a world class Centre of Excellence among Higher Education Institutions, leading the transformation of Pakistan towards a rapidly developing 
+			Knowledge Economy to realise the national objective of a progressive and prosperous country among comity of nations.<br/>
+			
+			Develop NUST as a Comprehensive, Academic and Research-led university with a focus on Creativity, Innovation and Entrepreneurship so as to amicably negotiate Social, 
+			Economic and Environmental challenges faced by the country.</br>
+			With foundations based on principles of Merit, Transparency and Fair Play, nurture talent by providing equal opportunity to all segments of polity.<br/>
+			Empower students to develop their full potential, acquiring leadership and social skills, to act as agents of change within the society.<br/>
+			Improve global visibility by enhancing mutually beneficial linkages with international organisations and partner universities.<br/>
+	</p1> 
+			<h2><b>DEGREES </b><br/>&nbsp &nbsp &nbsp &nbsp &nbsp </h2>
+			<br/>
+			<h4><b>
+				BS Programs <br/>
+				MBA Program <br/>
+				M.S Programs <br/>
+				PhD Programs <br/>
+			</h4>
+			
+			<br/>
+			<h3><b>Environment</b></h3>
+					<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp NSUT is also very famous for CS. The students of NUST highly paid in the world. 
+					It is working in a big place covered by mountains. It's faculty is well educated, nice and very coperative with their students. It's faculty gives best to their students.
+					It has a large number of Computer and DLD Labs. This university takes part in Foreign Research projects. NUST organizes differnt events such as Sport Gala, and etc.
+					  </p>
+			<br/>
+			<h3><b>Faculty</b></h3>
+			<p2>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Lieutenant General Naweed Zaman &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbspProfessor and Rector
+					<br/>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Dr. Naukhez Sarwar   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbspHOD Management Dept.
+					<br/>
+					&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Dr. Tariq Mahmood   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp HOD Civil Engineering Dept.
+					<br/>
+					&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Dr. S.M Hassan Zaidi  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbspHOD Computer Science Dept.
+					<br/>
+					&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Habib Nasir &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbspHOD Natural Sciences Dept.
+					
+			<br/></p2>
+			<h3><b>Fee/Semester</b></h3>
+					<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  BS Programs &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 90,000-105,000
+					<br/>
+					<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  MBA Program &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp100,000-110,000
+					<br/>
+						&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  MS Programs &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp100,00-110,000
+					<br/>
+					&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  PhD Programs &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 95,000-105,000
+					</p>
+					
+					
+		</header>
+</body>
+</html>

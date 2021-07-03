@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+		<title> ITU </title>
+		<link rel="stylesheet" type="text/css" href="css/it.css">
+</head>
+<body>
+		<header>
+		<div class="logo">
+			 <h1>ZBHG 
+			  <br/>&nbsp &nbsp &nbsp &nbsp &nbsp Technologies Limited</h1>
+			 </div>
+		
+			<div class="button">
+				<a href="Project 1.html" class="btn">HOME</a>
+				<a href="pucit.html" class="btn">PUCIT</a>
+				<a href="fast.html" class="btn">FAST</a>
+				<a href="itu.html" class="btn">ITU</a>
+				<a href="nust.html" class="btn">NUST</a>
+				<a href="comsats.html" class="btn">COMSATS</a>
+			</div>
+			
+			
+			<div class="main">
+			
+			<br/>
+			<h5> Information Technology University</h5>
+			<br/>
+			<br/>
+			
+			<p1>ITU, located in Lahore, came into being in 2012 in order to advance scholarship and innovation in the areas of science, technology and engineering. 
+			ITU aspires to emulate the success of Massachusetts Institute of Technology (MIT) through focus on cross-disciplinary applied research, the cultivation of an 
+			entrepreneurial culture in teaching and research, the maintenance of a close collaboration with the Information and Communication Technology industry and the 
+			development of strong ties with government funding agencies. With a structure that combines the best features of both public and private sector universities, 
+			ITU aims to serve as a center for excellence in academia, research, entrepreneurship and innovation.<br/>
+			Information Technology can be used in any number of innovative ways to develop unique solutions to the problems faced by Pakistan today. ITU was thus formed to enable 
+			Pakistani youth to develop such solutions, and also to cater to the acute shortage of trained manpower faced by Pakistan’s IT industry. Modelled along the lines of the 
+			world’s leading technology universities, ITU has a project-oriented and design-centered approach to education. The university aims to foster a new generation of IT 
+			engineers and entrepreneurs who will help transform the economic and technical landscape of Pakistan. ITU is a first of its kind institution in Pakistan; the university 
+			seeks to nurture an environment of high-tech research and entrepreneurship with its state-of-the art facilities, world class faculty, its in-house start-up incubator and 
+			well-established government and industry linkages.<br/></p1> 
+			<h2><b>DEGREES </b><br/>&nbsp &nbsp &nbsp &nbsp &nbsp </h2>
+			<br/>
+			<h4><b>
+				BS(Computer Science) &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+				BS(Electrical Engineering) <br/>
+				BS(Managemant & Technology) &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+				BS(Economics With Data Science) <br/>
+				M.S Programs &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+				PhD Programs <br/>
+			</h4>
+			
+			<br/>
+			<h3><b>Environment</b></h3>
+					<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp The environment of ITU is very pleasant and peaceful. There are different events held at
+					ITU like "Afkar e Taza ThinkFest". ITU is a first Pakistani University which came into being on the name of technology. The students of ITU take part 
+					in every programming competition. Although, it is currently working in a conjusted place but it's faculty gives best to their students.
+					It has a small number of Computer and DLD Labs. On the other hand, it's faculty is well educated, nice and very coperative with their students.</p>
+			<br/>
+			<h3><b>Faculty</b></h3>
+			<p2>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Dr. Niaz Ahmad Akhtar	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbspProfessor and VC
+					<br/>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Dr. Akmal Hussain &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbspHOD Humanities Dept.
+					<br/>
+					&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Dr. Bashir Ahmad Khan &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp HOD Managemant Dept.
+					<br/>
+					&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Dr. Faisal Kamran &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbspHOD Computer Science Dept.
+					<br/>
+					&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Dr. Tauseef Tauqeer &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbspHOD Electrical Engineering Dept.
+					
+			<br/></p2>
+			<h3><b>Fee/Semester</b></h3>
+					<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  BS Programs &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 82,000-110,000
+					<br/>
+						&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  MS Programs &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp72,500-80,000
+					<br/>
+					&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  PhD Programs &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp50,000-60,000
+					</p>
+					
+					
+		</header>
+</body>
+</html>

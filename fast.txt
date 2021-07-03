@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+		<title> FAST </title>
+		<link rel="stylesheet" type="text/css" href="css/fa.css">
+</head>
+<body>
+		<header>
+		<div class="logo">
+			 <h1>ZBHG 
+			  <br/>&nbsp &nbsp &nbsp &nbsp &nbsp Technologies Limited</h1>
+			 </div>
+		
+			<div class="button">
+				<a href="Project 1.html" class="btn">HOME</a>
+				<a href="pucit.html" class="btn">PUCIT</a>
+				<a href="fast.html" class="btn">FAST</a>
+				<a href="itu.html" class="btn">ITU</a>
+				<a href="nust.html" class="btn">NUST</a>
+				<a href="comsats.html" class="btn">COMSATS</a>
+			</div>
+			
+			
+			<div class="main">
+			
+			<br/>
+			<h5> National University of Computer and Emerging Sciences </h5>
+			<br/>
+			<br/>
+			
+			<p1> Founded as a Federally Chartered University in July 2000, the National University of Computer and Emerging Sciences is a premiere University of Pakistan, 
+			renowned for quality and impact of its students in the development of local software and other industries. The university has five modern campuses at Karachi, Lahore, 
+			Islamabad, Peshawar and Chiniot-Faisalabad. These campuses provide world class educational environment and recreational facilities to about over 11,000 students, around 
+			one quarter are female and over 500 skilled faculty members.<br/>
+			
+			Research wings of the university are well recognized, nationally and internationally. They are embarked upon cutting edge research having direct impact on the social, 
+			economic and technological needs of Pakistan. Our vision is to become a globally recognized research university of Pakistan within the next decade.</p1> 
+			<h2><b>DEGREES </b><br/>&nbsp &nbsp &nbsp &nbsp &nbsp </h2>
+			<br/>
+			<h4><b>
+				BS(Computer Science) &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+				BS(Electrical Engineering) <br/>
+				BS(Accouting & Finance) &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+				BS(BBA) <br/>
+				M.S Programs &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+				PhD Programs <br/>
+				
+			</h4>
+			
+			<br/>
+			<h3><b>Environment</b></h3>
+					<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp The environment of FAST is very good and peaceful. There are different societies work in FAST
+					like Sports Society, Environmental Society, Computer Society, etc. Computer Society is very active and organizes an event named as SOFTEC. In this event, students 
+					of different universities take part and win prizes. FAST, Lahore Campus has a very large library, a lot of Computer and DLD Labs. It's infra-structure
+					is very unique and beautiful.</p>
+			<br/>
+			<h3><b>Faculty</b></h3>
+					<p2>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Dr. Hamid Hassan	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Professor and Director 	
+					<br/>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Dr. Ali Afzal &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbspHOD Computer Science Dept.
+					<br/>
+					&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Dr. Sheikh Sajid &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp HOD Electrical Engineering Dept.
+					<br/>
+					&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Dr. Zia Khan &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbspHOD Management Dept.
+					<br/>
+					&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Dr. Summaira Sarfraz &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp HOD Hummanities Dept.
+					<br/>
+					&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Dr. Javaid Ahmad &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbspHOD Civil Engineering Dept.
+			<br/></p2>
+			<h3><b>Fee/Semester</b></h3>
+					<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  BS Programs &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp130,000-145,000
+					<br/>
+						&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  MBA Program &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 120,000-132,000
+					<br/>
+						&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  MS Programs &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 120,000-135,000
+					<br/>
+					&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  PhD Programs &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp118,000-130,000
+					</p>
+					
+					
+		</header>
+</body>
+</html>
